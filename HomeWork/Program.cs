@@ -46,4 +46,3 @@ Console.WriteLine(total);*/
 /*int salary = 100;
 int moneyFromSales = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(salary + (moneyFromSales / 100 * 5));*/
-
